@@ -44,7 +44,7 @@ fun Greeting() {
     ) {
         Row(
             modifier = Modifier
-                .background(Color.Cyan)
+                .background(Color.Red)
                 .padding(all = 16.dp)
         ) {
             Text("나의 성격 유형은")
